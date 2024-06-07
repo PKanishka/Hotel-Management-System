@@ -1,0 +1,33 @@
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\xyz Hotel Manager.exe.config
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\xyz Hotel Manager.exe
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\xyz Hotel Manager.pdb
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz Hotel Manager.csproj.AssemblyReference.cache
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Main.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.ManageStaff.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Properties.Resources.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.StaffEntry.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz Hotel Manager.csproj.GenerateResource.cache
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz Hotel Manager.csproj.CoreCompileInputs.cache
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz Hotel Manager.exe
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz Hotel Manager.pdb
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.ManagePackage.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.PackageEntry.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.MSLogin.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Res.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.UMain.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Vpack.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Reg.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Rp.resources
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\itextsharp.dll
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\itextsharp.xml
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz Hotel Manager.csproj.CopyComplete
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\de\xyz Hotel Manager.resources.dll
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Res.de.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\de\xyz Hotel Manager.resources.dll
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\es\xyz Hotel Manager.resources.dll
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\xyz_Hotel_Manager.Res.es.resources
+D:\Project\INSales\xyz Hotel Manager\obj\Debug\es\xyz Hotel Manager.resources.dll
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\MetroFramework.Design.dll
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\MetroFramework.dll
+D:\Project\INSales\xyz Hotel Manager\bin\Debug\MetroFramework.Fonts.dll
